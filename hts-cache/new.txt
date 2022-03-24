@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:11:47	64304/64304	---MC-	200	added ('OK')	text/html	date:Thu,%2024%20Mar%202022%2003:11:53%20GMT	https://itsverify.com/aef9f4f?fbclid=IwAR2IRDuYmyYVjYLevVkV_j068wmqBsnso2vCOwciwYGqpHNz0YtKsEMfB1w	C:/My%20Websites/CSS%e8%b4%a7%e5%b8%81%e5%8f%91/itsverify.com/aef9f4f7f44.html	(from )
+11:11:48	208/208	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2024%20Mar%202022%2003:11:55%20GMT	https://itsverify.com/robots.txt		(from )
